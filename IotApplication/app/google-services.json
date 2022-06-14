@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "829139287230",
+    "firebase_url": "https://khoaluantotnghiep-2b62f-default-rtdb.firebaseio.com",
+    "project_id": "khoaluantotnghiep-2b62f",
+    "storage_bucket": "khoaluantotnghiep-2b62f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829139287230:android:1807b8e4ef45c5feb772ef",
+        "android_client_info": {
+          "package_name": "com.example.iotapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829139287230-1k4rlariig0rn218r771bpso07ct7fqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzNJNLuU62ExGvtCooAsBgfzF53aiWZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829139287230-1k4rlariig0rn218r771bpso07ct7fqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829139287230:android:4caea1d1482e3489b772ef",
+        "android_client_info": {
+          "package_name": "com.example.monitordeviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829139287230-1k4rlariig0rn218r771bpso07ct7fqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjzNJNLuU62ExGvtCooAsBgfzF53aiWZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829139287230-1k4rlariig0rn218r771bpso07ct7fqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
